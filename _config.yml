@@ -1,7 +1,7 @@
 name: slw
 favicon: null
-layout_spectrum: 0.6452557444572449
-typography_spectrum: 0.8993626346345991
+layout_spectrum: 0.00482
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.057782272109761834
-  lightness: 0.8778749250341207
-  saturation: 0.3099966221489012
-  rhythmicContrast: 0.5513368675019592
+    - '#00020e'
+    - '#8dbde3'
+    - '#538eb7'
+    - '#315d7a'
+    - '#eff6fc'
+  brandStrength: 0.0625
+  lightness: 0.9375
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
